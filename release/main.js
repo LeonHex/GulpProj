@@ -1,0 +1,1 @@
+console.log("hello world");var obj={id:0,name:"Leon"},testV=!1;
